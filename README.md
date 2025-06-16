@@ -3,6 +3,10 @@
 A fullstack Todo App using **Laravel 10** (backend REST API) and **Flutter 3** (frontend mobile app).
 
 
+
+https://github.com/user-attachments/assets/2d5a6510-3d06-4f32-af3f-015b74ef94b9
+
+
 ## Fitur
 
 - **Autentikasi**: Register, Login, Logout.
